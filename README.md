@@ -19,16 +19,7 @@ I’m particularly interested in interdisciplinary research at the intersection 
 - Diffusion-based data augmentation for semi-supervised learning
 - Stability and debugging of multi-stage federated pipelines
 
-
-## 📌 Selected Projects
-🔹 Federated CLIP with Prompt Learning  
-Exploring personalized federated learning with visual/text prompt adaptation under non-IID data  
-
-🔹 Diffusion Models for Semi-Supervised Learning  
-Implemented DDPM with classifier-free guidance for synthetic data generation  
-
-🔹 CLIP Fine-Tuning with LoRA (Few-shot Learning)  
-Reproducing and analyzing few-shot adaptation methods on Oxford Pets  
+ 
 
 
 ## 🔗 Interdisciplinary Interests
