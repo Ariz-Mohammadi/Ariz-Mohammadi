@@ -1,4 +1,4 @@
-# Hi, I'm Ariz 👋
+# Hi, I'm Ariz Mohammadi👋
 
 Research-focused AI student with a background in Aerospace/Mechanical Engineering  
 
