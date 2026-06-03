@@ -1,6 +1,6 @@
 # Hi, I'm Ariz Mohammadi👋
 
-Research-focused AI student with a background in Aerospace/Mechanical Engineering  
+Research-focused AI student with a background in Aerospace and Computer Engineering  
 
 Working on Vision-Language Models, Federated Learning, and Generative AI  
 
